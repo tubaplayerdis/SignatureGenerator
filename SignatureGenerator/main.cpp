@@ -1,4 +1,5 @@
 #define _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS
+#pragma warning(disable : 4996)
 
 #include <ida.hpp>
 #include <idp.hpp>
